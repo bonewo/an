@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img src="https://image.tmdb.org/t/p/w500/bMA6E5cu1QUMehjBZOjWjqQjhey.jpg" alt="Čak i ako naša ljubav večeras nestane Poster" width="280" style="border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+<img src="https://image.tmdb.org/t/p/w500/a4Ce3qHqIyHM3QfGsiVTAu3YADJ.jpg" alt="Kako biti solo Poster" width="280" style="border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
 
 </div>
 
 <div align="center">
 
-<h2>Čak i ako naša ljubav večeras nestane (2025)</h2>
+<h2>Kako biti solo (2016)</h2>
 
 </div>
 
@@ -15,7 +15,7 @@
 
 | **⭐ Rating** | **🎬 Runtime** | **📅 Release** | **🔥 Popularity** |
 |:---:|:---:|:---:|:---:|
-| **8.4/10** <br> ★★★★☆ | **106 min** | **2025-12-24** | **10** |
+| **6.3/10** <br> ★★★☆☆ | **110 min** | **2016-02-08** | **17** |
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <div style="background: #f0fdf4; padding: 16px; border-radius: 12px; color: #14532d;">
 
-Čak i ako naša ljubav večeras nestane Online sa Prevodom. Srednjoškolka se svakoga jutra budi bez sjećanja na jučer. Kad pristane izaći sa sramežljivim školskim kolegom, može li njihova ljubav rasti svakim novim početkom?
+Kako biti solo Online sa Prevodom. Usputni seks, spoj na slijepo, kada se udati/oženiti i strah od obaveza. Ovo najbolje razumiju oni koji su solo. Postoji pravilan i pogrešan način da se bude solo, a postoji i Alicin način, i Robinov, i Lucyjin, i Tomov. Grad New York je pun usamljenih srca koja tragaju za "onim pravim", za "nabrzaka" ili za nečim između. Negdje između svih tih flertujućih poruka i seksa za jednu noć, ono što svi soleri imaju zajedničko je potreba da nauče kako biti solo u svijetu u kojem je ljubav - must have.
 
 </div>
 
@@ -35,13 +35,13 @@
 
 | Attribute | Information |
 |:---|:---|
-| **Original Title** | 오늘 밤, 세계에서 이 사랑이 사라진다 해도 |
+| **Original Title** | How to Be Single |
 | **Status** | Released |
-| **Budget** | - |
-| **Revenue** | $5,516,015 |
-| **Vote Count** | 129 |
-| **Genres** | Romance, Drama |
-| **Production** | BLUEFIRESTUDIO, O'FAN HOUSE, BY4M Studio |
+| **Budget** | $38,000,000 |
+| **Revenue** | $112,343,513 |
+| **Vote Count** | 3,339 |
+| **Genres** | Comedy, Romance |
+| **Production** | New Line Cinema, Metro-Goldwyn-Mayer, Flower Films |
 
 ---
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<a href="https://playstream.cc/movie/1466115" target="_blank" rel="nofollow">
+<a href="https://playstream.cc/movie/259694" target="_blank" rel="nofollow">
 <img src="https://imagdb.pages.dev/button2.jpg" alt="Movie Information" width="100%" style="border-radius: 12px;">
 </a>
 
@@ -59,9 +59,9 @@
 
 ---
 
-## 📖 Čak i ako naša ljubav večeras nestane: Analiza Priče
+## 📖 Kako biti solo: Analiza Priče
 
-Srednjoškolka se svakoga jutra budi bez sjećanja na jučer. Kad pristane izaći sa sramežljivim školskim kolegom, može li njihova ljubav rasti svakim novim početkom? Priča donosi uvjerljivu naraciju s iznimnom kinematografijom i snažnim izvedbama.
+Usputni seks, spoj na slijepo, kada se udati/oženiti i strah od obaveza. Ovo najbolje razumiju oni koji su solo. Postoji pravilan i pogrešan način da se bude solo, a postoji i Alicin način, i Robinov, Priča donosi uvjerljivu naraciju s iznimnom kinematografijom i snažnim izvedbama.
 
 > Ova nezaboravna rečenica hvata bit filma: putovanje hrabrosti, emocija i transformacije.
 
@@ -69,9 +69,9 @@ Emocionalna dubina i struktura pripovijedanja čine ovaj film izvrsnim kinematog
 
 ---
 
-## 🍿 O filmu Čak i ako naša ljubav večeras nestane
+## 🍿 O filmu Kako biti solo
 
-Čak i ako naša ljubav večeras nestane predstavlja prekretnicu u modernoj filmskoj produkciji, pokazujući tehničku izvrsnost i umjetničku viziju.
+Kako biti solo predstavlja prekretnicu u modernoj filmskoj produkciji, pokazujući tehničku izvrsnost i umjetničku viziju.
 
 <ul>
 <li>🎬 Official website and authorized platforms</li>
@@ -81,11 +81,11 @@ Emocionalna dubina i struktura pripovijedanja čine ovaj film izvrsnim kinematog
 
 ---
 
-## 💡 Zašto je Čak i ako naša ljubav večeras nestane Važan
+## 💡 Zašto je Kako biti solo Važan
 
 Film donosi svježe perspektive i smislene lukove likova koji odjekuju kod publike diljem svijeta.
 
-Svojim inovativnim pristupom i uvjerljivim pripovijedanjem, Čak i ako naša ljubav večeras nestane postavlja novo mjerilo za kinematografsku izvrsnost.
+Svojim inovativnim pristupom i uvjerljivim pripovijedanjem, Kako biti solo postavlja novo mjerilo za kinematografsku izvrsnost.
 
 ---
 
@@ -95,11 +95,11 @@ Svojim inovativnim pristupom i uvjerljivim pripovijedanjem, Čak i ako naša lju
 
 | Actor | Character |
 |:---|:---|
-| 추영우 | Kim Jae-won |
-| 신시아 | Han Seo-yoon |
-| 조유정 | Choi Ji-min |
-| 진호은 | Jeong Tae-hoon |
-| 조한철 | Kim Seong-hyeon |
+| Dakota Johnson | Alice Kepley |
+| Rebel Wilson | Robin |
+| Leslie Mann | Meg |
+| Alison Brie | Lucy |
+| Damon Wayans Jr. | David |
 
 </div>
 
@@ -139,7 +139,7 @@ Svojim inovativnim pristupom i uvjerljivim pripovijedanjem, Čak i ako naša lju
 
 **❓ O čemu se radi u ovom filmu?**
 
-Čak i ako naša ljubav večeras nestane je kinematografsko remek-djelo koje istražuje teme hrabrosti, obitelji i avanture.
+Kako biti solo je kinematografsko remek-djelo koje istražuje teme hrabrosti, obitelji i avanture.
 
 </div>
 
@@ -171,7 +171,7 @@ Film je dobio brojna priznanja za svoja tehnička i umjetnička dostignuća.
 
 **❓ Koliko traje film?**
 
-Trajanje filma je približno 106 minuta.
+Trajanje filma je približno 110 minuta.
 
 </div>
 
@@ -183,7 +183,7 @@ Trajanje filma je približno 106 minuta.
 
 | **TMDB ID** | **IMDB ID** | **Language** |
 |:---:|:---:|:---:|
-| 1466115 | tt39049192 | hr-HR |
+| 259694 | tt1292566 | hr-HR |
 
 </div>
 
@@ -191,6 +191,6 @@ Trajanje filma je približno 106 minuta.
 
 <div align="center">
 
-**Čak i ako naša ljubav večeras nestane - Službene Informacije o Filmu | Glumačka Postava i Ekipa | Detalji Filma**
+**Kako biti solo - Službene Informacije o Filmu | Glumačka Postava i Ekipa | Detalji Filma**
 
 </div>
